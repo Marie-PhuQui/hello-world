@@ -1,2 +1,6 @@
 # hello-world
-mandatory coding thing
+
+
+Mandatory coding thing
+
+Including things about myself
